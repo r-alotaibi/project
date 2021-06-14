@@ -73,16 +73,6 @@ namespace ProjectDemo
                 //to update data
                 if (num == 2)
                 {
-                    //StreamReader reader = new StreamReader("school.txt");
-                    //string readedData = reader.ReadToEnd();
-                    //reader.Close();
-                    //modify what you want
-                    //readedData.Replace("3.99", "1.99.");
-
-                    ////Write new file or append on existing file
-                    //StreamWriter writer = new StreamWriter("school.txt", false);
-                    //writer.Write(readedData);
-                    //writer.Close();
                     Console.WriteLine("under process.....");
                 }
 
