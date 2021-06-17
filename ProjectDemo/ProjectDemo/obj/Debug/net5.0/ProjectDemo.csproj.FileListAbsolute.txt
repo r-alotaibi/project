@@ -1,0 +1,15 @@
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/bin/Debug/net5.0/ProjectDemo.deps.json
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/bin/Debug/net5.0/ProjectDemo.runtimeconfig.json
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/bin/Debug/net5.0/ProjectDemo.runtimeconfig.dev.json
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/bin/Debug/net5.0/ProjectDemo.dll
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/bin/Debug/net5.0/ref/ProjectDemo.dll
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/bin/Debug/net5.0/ProjectDemo.pdb
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ProjectDemo.csprojAssemblyReference.cache
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ProjectDemo.AssemblyInfoInputs.cache
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ProjectDemo.AssemblyInfo.cs
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ProjectDemo.csproj.CoreCompileInputs.cache
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ProjectDemo.dll
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ref/ProjectDemo.dll
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ProjectDemo.pdb
+/Users/m1macbookpro/Desktop/"."NET/ProjectDemo/ProjectDemo/obj/Debug/net5.0/ProjectDemo.genruntimeconfig.cache
